@@ -8,6 +8,7 @@ The existing chat templates break agentic tool usage in environments like Kiloco
 - Kilocode context compaction
 - Kilocode subtask completion to Orchestrator
 - Kilocode randomly breaking mid-session
+- Opencode context compaction
 - Openclaw unusable in any shape
 
 **Tested Stack**
